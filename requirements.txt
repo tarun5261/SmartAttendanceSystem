@@ -1,0 +1,13 @@
+opencv-python
+numpy
+tensorflow
+keras
+scikit-learn
+scipy
+pandas
+matplotlib
+imutils
+pyglet
+pygame
+playsound
+gaze_tracking
